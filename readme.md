@@ -7,4 +7,4 @@ The chaos game is a famous mathmatical algorithm that generates fractals by plot
 
 Read more here: [Wikipedia](https://en.wikipedia.org/wiki/Chaos_game)
 
-:neckbeard: Created for fun!
+:robot: Created for fun!
